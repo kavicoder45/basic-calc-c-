@@ -46,6 +46,7 @@ int main()
 			{
 				//Modulus
 				cout<<"The Modulus of two Number is \t"c=a%b<<enld;
+				break;
 			}
 		default:
 			//this is default if user give wrong operator this statement will executed to aware the user to give correct operator
